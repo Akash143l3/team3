@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: black;
+    margin:0px 300px;
+    font: bold;
+}
+.img-ask{
+    margin:50px 400px;
+    height: 200px;
+    width: 200px;
+}
+ol{
+    font-size: larger;
+}
+.ak{
+    margin:50px 200px;
+    height: 300px;
+    width: 400px;
+}
+h2{
+    color: black;
+    margin:0px 300px;
+}
